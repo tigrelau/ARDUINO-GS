@@ -64,7 +64,7 @@ Quando detecta condições de perigo:
 ## 🔗 Links Úteis
 
 - 🔌 **Projeto no Wokwi:** [PROJETO](https://wokwi.com/projects/432973600071955457)  
-- 🎥 **Vídeo Demonstrativo:** [COLE AQUI O LINK DO VÍDEO](https://youtube.com/SEU_LINK_AQUI)  
+- 🎥 **Vídeo Demonstrativo:** [VÍDEO](https://www.youtube.com/watch?v=M1HO2IYszrQ)  
 
 ---
 
