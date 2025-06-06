@@ -60,6 +60,10 @@ Quando detecta condições de perigo:
 🔧 Instale-as via **Library Manager** da Arduino IDE antes de compilar.
 
 ---
+## 🔗 Links Úteis
+
+- 🔌 **Projeto no Wokwi:** [COLE AQUI O LINK DO SEU PROJETO](https://wokwi.com/projects/SEU_LINK_AQUI)  
+- 🎥 **Vídeo Demonstrativo:** [COLE AQUI O LINK DO VÍDEO](https://youtube.com/SEU_LINK_AQUI)  
 
 ## 🧪 Guia de Simulação no Wokwi
 
@@ -150,7 +154,3 @@ void loop() {
 
   delay(2000);
 }
-## 🔗 Links Úteis
-
-- 🔌 **Projeto no Wokwi:** [COLE AQUI O LINK DO SEU PROJETO](https://wokwi.com/projects/SEU_LINK_AQUI)  
-- 🎥 **Vídeo Demonstrativo:** [COLE AQUI O LINK DO VÍDEO](https://youtube.com/SEU_LINK_AQUI)  
